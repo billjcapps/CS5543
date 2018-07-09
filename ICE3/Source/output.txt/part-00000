@@ -1,0 +1,4 @@
+(List(C, E),List(B, D))
+(List(C, D),List(A, B, E))
+(List(B, E),List(C, D))
+(List(A, C),List(B, D))
