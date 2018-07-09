@@ -1,4 +1,4 @@
-# CS5543
+# UMKC CS5543 - Real-Time Big Data Analytics
 
 ## Lab 1
 <ul>
